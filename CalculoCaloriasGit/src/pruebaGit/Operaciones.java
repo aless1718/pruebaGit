@@ -35,4 +35,7 @@ public class Operaciones {
 	public int division() {
 		return operadorA / operadorB;
 	} 
+	public int multipli() {
+		return operadorA * operadorB;
+	} 
 }
