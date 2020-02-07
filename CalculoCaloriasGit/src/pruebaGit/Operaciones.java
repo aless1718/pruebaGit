@@ -34,5 +34,5 @@ public class Operaciones {
 	
 	public int division() {
 		return operadorA / operadorB;
-	}
+	} 
 }
